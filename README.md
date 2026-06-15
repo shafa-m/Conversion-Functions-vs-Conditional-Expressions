@@ -106,7 +106,7 @@ Nəticə:
 
 100
 
-2. NVL2 Function
+4. NVL2 Function
 NULL olub-olmamasına görə 2 fərqli nəticə qaytarmaq
 
 Sintaksisaşağıdaki kimi olacaq:
@@ -131,7 +131,7 @@ NOT NULL halda	 orijinal dəyər	             ikinci parametr
 NULL halda	     default dəyər	             üçüncü parametr
 İstifadə	     sadə replacement	         branching logic
 
-2. DECODE Function
+5. DECODE Function
 DECODE Oracle-un IF-ELSE / CASE WHEN alternatividir.
 
 Sintaksis
