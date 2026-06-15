@@ -1,6 +1,4 @@
-
-
-Conversion Functions və Conditional Expressions
+#Conversion Functions və Conditional Expressions
 
 Conversion və conditional funksiyalar olan NVL, NULLIF və COALESCE mövzularının izahi.
 Bu funksiyalar SQL-də NULL dəyərlərlə işləmək və sorğularda məntiq qurmaq üçün istifadə olunur.
